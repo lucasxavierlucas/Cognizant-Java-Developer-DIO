@@ -1,4 +1,4 @@
-# Cognizant Java Developer DIO  <img src="https://hermes.digitalinnovation.one/tracks/a814466a-ab18-4618-8c81-ce877b95e4f7.png" width="100" height="100">
+# <img src="https://hermes.digitalinnovation.one/tracks/a814466a-ab18-4618-8c81-ce877b95e4f7.png" width="100" height="100"> Cognizant Java Developer DIO  
 Certificados e Projetos do Bootcamp Cognizant Java Developer; 
 96H em 46 Aulas, abordando:
 - Lógica de Programação Essencial
